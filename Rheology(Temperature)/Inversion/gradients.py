@@ -127,8 +127,8 @@ log(f"U misfit: {u_misfit}")
 log(f"Mu misfit: {mu_misfit}")
 
 # define the weights for the terms within the objective function
-alpha_dt = 1.6
-alpha_u = 1.0
+alpha_dt = 1.0
+alpha_u = 10.0
 alpha_s = 0.1
 alpha_d = 0.5
 
