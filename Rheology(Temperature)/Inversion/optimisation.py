@@ -1,5 +1,5 @@
-# In this code we will perform the actual inversionusing th Lin-More optimiser
-# 
+# In this code we will perform the actual inversion using the Lin-More optimiser
+# we will also plot the inversion results such as DT misfit, etc
 
 from gadopt import *
 from gadopt.inverse import *
